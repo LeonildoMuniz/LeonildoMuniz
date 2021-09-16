@@ -1,17 +1,11 @@
-### Hi there 👋
+### Olá 👋
+Bem vindo a minha pagina, no momento estou em formação, fazendo curso de desenvolvimento de sistemas e se aprimorando em outros cursos de programação:  C# - Java - Banco de dados - Unity
+- 🔭 
+- 🌱 
+- 🤝 
 
+![Leonildo Muniz GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonildoMuniz&show_icons=true)
 
-<!--
-**LeonildoMuniz/LeonildoMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" href="https://www.linkedin.com/in/Leonildo-Muniz-060322135/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
