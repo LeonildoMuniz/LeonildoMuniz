@@ -1,6 +1,5 @@
 ### Olá bem vindo a minha página 👋
-Bem vindo a minha pagina, no momento estou fazendo o curso de desenvolvimento de sistemas pelo Senai, também estou estudando em paralelo, linguem de programação orientada a objetos em C# e Java, além de banco de dados e a Unity para desenvolvimento de jogos.
- 
+
 
 ![Leonildo Muniz GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonildoMuniz&show_icons=true)
 
