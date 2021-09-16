@@ -1,8 +1,6 @@
 ### Olá bem vindo a minha página 👋
-Bem vindo a minha pagina, no momento estou em formação, fazendo curso de desenvolvimento de sistemas e se aprimorando em outros cursos de programação:  C# - Java - Banco de dados - Unity
-- 🔭 
-- 🌱 
-- 🤝 
+Bem vindo a minha pagina, no momento estou fazendo o curso de desenvolvimento de sistemas pelo Senai, também estou estudando em paralelo, linguem de programação orientada a objetos em C# e Java, além de banco de dados e a Unity para desenvolvimento de jogos.
+ 
 
 ![Leonildo Muniz GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonildoMuniz&show_icons=true)
 
@@ -16,4 +14,8 @@ Bem vindo a minha pagina, no momento estou em formação, fazendo curso de desen
 
 <a target="_blank" href="mailto:leonildomuniz20@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a target="_blank" href="https://www.facebook.com/leonildo.muniz">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
